@@ -3,7 +3,7 @@ This repository contains resources of the following [CoNLL 2019](https://www.con
 
 Title: TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots   
 Authors: Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu   
-Link: [TBD](#)
+Link: [https://arxiv.org/abs/1909.10666](https://arxiv.org/abs/1909.10666)
 
 ## News
 We will upload our source codes as soon as possible.
