@@ -3,10 +3,13 @@ This repository contains resources of the following [CoNLL 2019](https://www.con
 
 Title: TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots   
 Authors: Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu   
-Link: [https://arxiv.org/abs/1909.10666](https://arxiv.org/abs/1909.10666)
+Link: [https://www.aclweb.org/anthology/K19-1069.pdf](https://www.aclweb.org/anthology/K19-1069.pdf)
 
 ## News
 We have upload our source codes and push the dicts for the model in [google drive](https://drive.google.com/file/d/1wMYiowGHywX43EJebJaj0Pi2oEjbqcKX/view?usp=sharing).
+
+## Notes
+For reproducing the performance of TripleNet, you need to download the datasets of Ubuntu and Douban and push them in the directory 'data', then train or test the model just like the scripts in 'shell'.
 
 ## Citation
 If you use the data or codes in this repository, please cite our paper
