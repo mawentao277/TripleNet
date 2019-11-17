@@ -6,8 +6,7 @@ Authors: Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin
 Link: [https://arxiv.org/abs/1909.10666](https://arxiv.org/abs/1909.10666)
 
 ## News
-We will upload our source codes as soon as possible.
-Hopefully it will be done before November.
+We have upload our source codes here and push the dicts for the model in [google drive](https://drive.google.com/file/d/1wMYiowGHywX43EJebJaj0Pi2oEjbqcKX/view?usp=sharing).
 
 ## Citation
 If you use the data or codes in this repository, please cite our paper
