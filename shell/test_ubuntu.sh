@@ -6,8 +6,8 @@ python main.py \
     --use_CuDNNRNN \
     --use_word_embeddings \
     --use_char_embeddings \
-    --max_utterance_len  70 \
-    --model_weight_file  './model/model_epoch6_turn12_len70_prec0.78952.hdf5' \
+    --max_utterance_len  50 \
+    --model_weight_file  './model/model_ubuntu.hdf5' \
     --word_embeddings_dim 100 \
     --hidden_dim 100 \
     --word_vocab_size 144954 \
