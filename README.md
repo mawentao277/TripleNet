@@ -6,7 +6,7 @@ Authors: Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin
 Link: [https://www.aclweb.org/anthology/K19-1069.pdf](https://www.aclweb.org/anthology/K19-1069.pdf)
 
 ## News
-We have upload our source codes and push the dicts for the model in [google drive](https://drive.google.com/file/d/1wMYiowGHywX43EJebJaj0Pi2oEjbqcKX/view?usp=sharing).
+We have uploaded our source codes and push the dicts for the model in [google drive](https://drive.google.com/file/d/1wMYiowGHywX43EJebJaj0Pi2oEjbqcKX/view?usp=sharing).
 
 ## Notes
 For reproducing the performance of TripleNet, please download the datasets of Ubuntu and Douban and push them in the directory 'data', then train or test the model just like the scripts in 'shell'.
