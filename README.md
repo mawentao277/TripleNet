@@ -14,12 +14,23 @@ For reproducing the performance of TripleNet, please download the datasets of [U
 ## Citation
 If you use the data or codes in this repository, please cite our paper
 ```
-@InProceedings{ma-conll2019-triplenet,
-  author = 	"Ma, Wentao and Cui, Yiming and Shao, Nan and He, Su and Zhang, Wei-Nan and Liu, Ting and Wang, Shijin and Hu, Guoping",
-  title = 	"TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots",
-  booktitle = 	"Proceedings of the 23rd Conference on Computational Natural Language Learning",
-  year = 	"2019",
-  publisher = 	"Association for Computational Linguistics"
+@inproceedings{ma-etal-2019-triplenet,
+    title = "{T}riple{N}et: Triple Attention Network for Multi-Turn Response Selection in Retrieval-Based Chatbots",
+    author = "Ma, Wentao  and
+      Cui, Yiming  and
+      Shao, Nan  and
+      He, Su  and
+      Zhang, Wei-Nan  and
+      Liu, Ting  and
+      Wang, Shijin  and
+      Hu, Guoping",
+    booktitle = "Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/K19-1069",
+    pages = "737--746"
 }
 
 ```
